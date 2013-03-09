@@ -65,6 +65,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns)
 
 ## JS frameworks
+- [JQUery](http://jquery.com/)makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API
 - [Backbone.js](http://backbonejs.org) - give your JS App some Backbone with Models, Views, Collections, and Events.
 - [Knockout](http://knockoutjs.com) - is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
 - [Knockback.js](http://kmalakoff.github.com/knockback/) - provides Knockout.js magic for Backbone.js Models and Collections.
@@ -89,6 +90,8 @@ Community driven list of useful things for front end developers. [How to contrib
 ## HTML
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
+- [html5bp](http://html5boilerplate.com)HTML 5 Boilerplate
+- [mobilebp](http://html5boilerplate.com/mobile/) Mobile boilerplate
 
 ## Template engines
 - [Template-Engine-Chooser!](http://garann.github.com/template-chooser/)
