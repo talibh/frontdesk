@@ -122,6 +122,8 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Easing animation tool](http://matthewlein.com/ceaser/)
 - [Cubic-Bezier](http://cubic-bezier.com)
 - [Easings function](http://easings.net)
+- [Bootstrap Button Generator](http://blog.koalite.com/bbg/)
+- [Paintstrap](http://paintstrap.com/)
 
 ## CSS Preprocessors
 - [Less](http://lesscss.org)
